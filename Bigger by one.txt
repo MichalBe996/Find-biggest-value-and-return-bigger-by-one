@@ -1,0 +1,2 @@
+This function takes a list as an argument, checks which element has the highest value
+and returns that value +1 if said value is bigger than 0. If the value is negative it adds enough to get 1.
